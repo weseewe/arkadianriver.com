@@ -11,20 +11,20 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
+title: Orient Shisha
 description: Flowing creativity &#x2192; Cascading bliss
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
+  name: Orient # or company name
+  email:
+  url:
 first_published: 1996 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "https://weseewe.github.io/orient-bar/" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
+  title: Welcome!
   text: I hope you enjoy my collection
 # - title for your blog's featured posts
 features-title: Featured topics
